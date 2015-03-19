@@ -14,3 +14,5 @@ and the words list:
 
 Write a program that will select all the anagrams of "cat" from the list provided.
 
+
+### Steps
