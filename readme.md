@@ -17,8 +17,8 @@ Write a program that will select all the anagrams of "cat" from the list provide
 
 ### Steps
 
-+ Fork This Repo to your own gitHub
-+ Clone this repo on your local machine
++ Fork this repo to your own gitHub
++ Clone the fork on your local machine
 + Solve the problem
 + Commit changes
 + Push to your remote
