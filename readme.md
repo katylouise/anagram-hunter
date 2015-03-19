@@ -16,3 +16,10 @@ Write a program that will select all the anagrams of "cat" from the list provide
 
 
 ### Steps
+
++ Fork This Repo to your own gitHub
++ Clone this repo on your local machine
++ Solve the problem
++ Commit changes
++ Push to your remote
++ Submit a pull request
