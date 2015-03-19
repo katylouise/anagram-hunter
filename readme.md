@@ -1,4 +1,4 @@
-## Practise round: Anagram Hunter
+## Warm Up round: Anagram Hunter
 
 My great Aunt Ethel is a bit of a scrabble fanatic and she has heard that you are now a coding ninja.
 
@@ -23,3 +23,5 @@ Write a program that will select all the anagrams of "cat" from the list provide
 + Commit changes
 + Push to your remote
 + Submit a pull request
+
+![Anagram Hunter](scrabble.jpg)
