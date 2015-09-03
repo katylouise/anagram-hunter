@@ -1,4 +1,4 @@
-## Warm Up round: Anagram Hunter
+## Round 1: Anagram Hunter.
 
 My great Aunt Ethel is a bit of a scrabble fanatic and she has heard that you are now a coding ninja.
 
@@ -13,7 +13,6 @@ and the words list:
 ["try","how","eat","far","act","see","hit","lie","key","tac","sit","its","tea"]
 
 Write a program that will select all the anagrams of "cat" from the list provided.
-
 
 ### Steps
 
